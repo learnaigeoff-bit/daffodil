@@ -1,4 +1,5 @@
 # daffodil
+![headshot](images.jpeg)
 
 MY computing experiences progressed through
 ZX81
